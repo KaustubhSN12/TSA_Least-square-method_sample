@@ -1,9 +1,9 @@
 # TSA_Least-square-method_sample
  
-# Least Square Method Mathematical Solution : Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/Least%20square%20method.docx)
-# Moving Average Report Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/MA_Report%20Sample.docx)
+-Least Square Method Mathematical Solution : Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/Least%20square%20method.docx)
+-Moving Average Report Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/MA_Report%20Sample.docx)
 
-# Moving Average Python Solution Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/Sample_company_problem_TSA.ipynbx)
+-Moving Average Python Solution Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/Sample_company_problem_TSA.ipynbx)
 
 
 
