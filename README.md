@@ -1,10 +1,8 @@
 # TSA_Least-square-method_sample
+ 
+# Least Square Method Mathematical Solution : Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/Least%20square%20method.docx)
+# Moving Average Report Link : [Link](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/MA_Report%20Sample.docx)
 
-
-
-To create a professional `README.md` for your GitHub repository, copy and paste the content below. This report is structured to showcase the transition from manual calculations to automated corporate data science.
-
----
 
 # 📊 Time Series Analysis: From Statistical Foundations to Corporate Forecasting
 
@@ -34,6 +32,9 @@ Where  represents the average revenue and  represents the monthly growth rate. F
 ## 📈 Visual Insights & Plot Interpretation
 
 The following visualization compares actual sales performance against two distinct statistical models.
+
+
+![image](https://github.com/KaustubhSN12/TSA_Least-square-method_sample/blob/main/MA.png)
 
 ### **Strategic Insights for Stakeholders**
 
