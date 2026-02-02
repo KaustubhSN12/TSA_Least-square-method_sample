@@ -28,9 +28,9 @@ Where  represents the average revenue and  represents the monthly growth rate. F
 
 ### **Key Metrics Summary**
 
-* **Total 2-Year Revenue ():** $4,893,000
-* **Average Monthly Revenue ():** $203,875
-* **Monthly Growth Rate ():** $7.14 (in scaled units)
+* **Total 2-Year Revenue ():** 4,893,000
+* **Average Monthly Revenue ():** 203,875
+* **Monthly Growth Rate ():** 7.14 (in scaled units)
 
 ## 📈 Visual Insights & Plot Interpretation
 
@@ -59,6 +59,4 @@ The analysis is implemented in Python, mirroring the manual mathematical steps t
 * **Defensive Marketing:** Launch promotional campaigns 30 days prior to identified "dip" periods to flatten the curve and maintain cash flow.
 * **Price Strategy:** Capitalize on the accelerating momentum observed at the end of 2025 to explore price optimizations or upselling opportunities.
 
----
 
-Would you like me to generate a **Python script** that automatically formats and exports this entire report as a `.pdf` for your stakeholders?
